@@ -14,6 +14,8 @@
 		3DAE79821B97B04B00021431 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DAE79801B97B04B00021431 /* LaunchScreen.storyboard */; };
 		3DAE798D1B97B04B00021431 /* Whats_the_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAE798C1B97B04B00021431 /* Whats_the_WeatherTests.swift */; };
 		3DAE79981B97B04C00021431 /* Whats_the_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAE79971B97B04C00021431 /* Whats_the_WeatherUITests.swift */; };
+		3DAE79A61B97C83F00021431 /* Nature-Lenticular-Clouds-Over-Mount-Drum-Alaska.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DAE79A51B97C83F00021431 /* Nature-Lenticular-Clouds-Over-Mount-Drum-Alaska.jpg */; settings = {ASSET_TAGS = (); }; };
+		3DAE79A81B97C89300021431 /* 469832morning.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DAE79A71B97C89300021431 /* 469832morning.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		3DAE79931B97B04C00021431 /* Whats the WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats the WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DAE79971B97B04C00021431 /* Whats_the_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_the_WeatherUITests.swift; sourceTree = "<group>"; };
 		3DAE79991B97B04C00021431 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DAE79A51B97C83F00021431 /* Nature-Lenticular-Clouds-Over-Mount-Drum-Alaska.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Nature-Lenticular-Clouds-Over-Mount-Drum-Alaska.jpg"; sourceTree = "<group>"; };
+		3DAE79A71B97C89300021431 /* 469832morning.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 469832morning.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,8 +103,10 @@
 			children = (
 				3DAE79771B97B04B00021431 /* AppDelegate.swift */,
 				3DAE79791B97B04B00021431 /* ViewController.swift */,
+				3DAE79A71B97C89300021431 /* 469832morning.jpg */,
 				3DAE797B1B97B04B00021431 /* Main.storyboard */,
 				3DAE797E1B97B04B00021431 /* Assets.xcassets */,
+				3DAE79A51B97C83F00021431 /* Nature-Lenticular-Clouds-Over-Mount-Drum-Alaska.jpg */,
 				3DAE79801B97B04B00021431 /* LaunchScreen.storyboard */,
 				3DAE79831B97B04B00021431 /* Info.plist */,
 			);
@@ -231,6 +237,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DAE79A61B97C83F00021431 /* Nature-Lenticular-Clouds-Over-Mount-Drum-Alaska.jpg in Resources */,
+				3DAE79A81B97C89300021431 /* 469832morning.jpg in Resources */,
 				3DAE79821B97B04B00021431 /* LaunchScreen.storyboard in Resources */,
 				3DAE797F1B97B04B00021431 /* Assets.xcassets in Resources */,
 				3DAE797D1B97B04B00021431 /* Main.storyboard in Resources */,
